@@ -1,4 +1,5 @@
 # Linux-fake-shell-in-C
+(Please view this readme as "raw" for better formatting)
 A small C project designed to roughly emulate a bash shell. Developed in ubuntu 14.04.
 
 cscd340Lab8.pdf contains a sample run and valgrind run of this program.
