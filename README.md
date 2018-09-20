@@ -11,4 +11,3 @@ Single pipes such as                   ls -l | wc -w
 Aliasing such as                       alias printworkingd="pwd"
 Some history functions, such as ! to repeat the most recent command.
 A command to print recent commands:   "history"
-
